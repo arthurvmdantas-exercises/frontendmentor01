@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- I describe the process and the challenges I've faced in a [blog post](https://arthurvmdantas.work/posts/1-grid-item-placement/)
+- I describe the process and the challenges I've faced in a [blog post](https://arthurvmdantas.work/posts/1-grid-item-placement-en/)
 - [Live Site](https://arthurvmdantas-exercises.github.io/frontendmentor01/)
 
 ## Author
