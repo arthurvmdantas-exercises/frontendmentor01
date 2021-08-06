@@ -59,6 +59,7 @@ span {
 }
 
 .stat {
+  text-align: left;
   color: var(--white60);
   width: 100%;
   font-size: 0.8rem;
@@ -103,7 +104,7 @@ span {
   }
 
   .stat {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
   .stat > p {
