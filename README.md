@@ -31,5 +31,5 @@ Users should be able to:
 ## Author
 
 - Website - [Arthur V. M. Dantas](https://arthurvmdantas.work)
-- Frontend Mentor - [@arthurvmdantas](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@arthurvmdantas](https://www.frontendmentor.io/profile/arthurvmdantas)
 - Twitter - [@arthurvmdantas](https://www.twitter.com/arthurvmdantas)
